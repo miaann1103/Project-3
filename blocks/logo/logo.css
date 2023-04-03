@@ -1,0 +1,16 @@
+.logo {
+  height: 70px;
+  width: 100%;
+  max-width: 270px;
+  margin: 34px auto 0 auto;
+  display: flex;
+  justify-self: center;
+}
+
+@media only screen and (max-width: 320px) {
+  .logo {
+    max-width: 200px;
+    height: 51.85px;
+    margin: 20px auto 0 auto;
+  }
+}
