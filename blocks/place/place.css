@@ -3,7 +3,7 @@
   width: 100%;
   max-width: 984px;
   flex-wrap: wrap;
-  overflow:visible;
+  overflow: visible;
 }
 
 .place__header {
@@ -31,7 +31,7 @@
   font-size: 72px;
   line-height: 76px;
   /* display: inline-block; */
-  word-break: break-all;
+  
 }
 
 .place__image {
