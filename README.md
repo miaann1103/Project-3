@@ -16,4 +16,4 @@ Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum d
 4. Flexbox
 5. Media Queri di layar yang populer
 6. Figma based design. Link https://www.figma.com/file/iHgebXIPgNfTqdAiDbiwIj/Web%2C-Pembaruan-cerita-untuk-Proyek-3---Dari-Tanah-Air-ke-Tanah-Air?node-id=1%3A2&t=bZTaZe9pgUzarCUW-1
-7. Github
+7. Github. Link https://github.com/miaann1103/Project-3
